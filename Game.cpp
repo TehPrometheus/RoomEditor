@@ -19,8 +19,6 @@ void Start()
 	InitButton(g_ExportButton);
 	SetObstacles(g_CellArr, g_NrRows, g_NrCols);
 
-	//std::cout << "Room Name:";
-	//std::cin >> g_RoomName;
 }
 
 void Draw()
