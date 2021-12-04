@@ -1,4 +1,4 @@
-18:47 02/12/2021{empty.png,empty,true}
+{empty.png,empty,true}
 {enemy_bat.png,enemy_bat}
 {enemy_zombie.png,enemy_zombie}
 {not_found.png,not_found,false}

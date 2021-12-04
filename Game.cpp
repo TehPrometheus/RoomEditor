@@ -301,6 +301,7 @@ void InitGrid(Cell cellArr[], int nrRows, int nrCols)
 
 	}
 
+
 	for (int i = 0; i < cellAmount; i++)
 	{
 		if (cellArr[i].texture.id == 0)

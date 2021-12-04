@@ -62,7 +62,7 @@ Texture g_Numbers[g_GridSize]{};
 NamedTexture g_NamedTexturesArr[g_TexturesSize]{};
 Texture g_SelectedTexture{};
 Button g_ExportButton{};
-std::string g_RoomName{ "test" };
+std::string g_RoomName{ "nameless" };
 
 const Color4f   g_Green{ 0 / 255.f, 236 / 255.f, 0 / 255.f, 255 / 255.f },
 				g_GreenTransparent{ 0 / 255.f, 236 / 255.f, 0 / 255.f, 100 / 255.f },
